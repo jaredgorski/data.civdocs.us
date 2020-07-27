@@ -39,3 +39,7 @@ Command  | Info
 **-p** PRODUCTION | Build production database (defaults to local credentials)
 
 _Note: this program assumes `src/.env` `src/.env-local`, and `src/.env-production` files containing the required database credentials._
+
+## Repo links
+- [civdocs.us](https://github.com/jaredgorski/civdocs.us)
+- [api.civdocs.us](https://github.com/jaredgorski/api.civdocs.us)
