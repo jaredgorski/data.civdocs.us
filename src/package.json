@@ -1,0 +1,23 @@
+{
+  "name": "scrape_federalist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scrape": "node index.js --scrape",
+    "compile": "node index.js --compile",
+    "build-local-db": "cat ./.env-local > ./.env && node db-builder.js",
+    "build-production-db": "cat ./.env-production > ./.env && node db-builder.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "dotenv": "^8.2.0",
+    "knex": "^0.21.2",
+    "moment": "^2.27.0",
+    "mysql": "^2.18.1"
+  }
+}
