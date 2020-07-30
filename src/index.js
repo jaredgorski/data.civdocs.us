@@ -6,17 +6,22 @@ const readFile = util.promisify(fs.readFile);
 
 const {compileCtxFromJson} = require('./compile');
 
-const DOCUMENT_NAMES = [
-  'the-federalist',
-  // 'the-anti-federalist',
-];
+const DOCUMENT_NAMES = {
+  compile: [
+    'the-federalist',
+    'the-anti-federalist',
+  ],
+  scrape: [
+    'the-federalist',
+  ],
+};
 
 async function scrape() {
   console.log('\n\n\tSCRAPING...\n');
 
   async function scrapeAll() {
-    for (let i = 0; i < DOCUMENT_NAMES.length; i++) {
-      const name = DOCUMENT_NAMES[i];
+    for (let i = 0; i < DOCUMENT_NAMES.scrape.length; i++) {
+      const name = DOCUMENT_NAMES.scrape[i];
       const script = require(`./scripts/${name}`);
       const scrapedJson = await script();
 
@@ -33,8 +38,8 @@ async function compile() {
   console.log('\n\n\tCOMPILING...\n');
 
   async function compileAll(ctx) {
-    for (let i = 0; i < DOCUMENT_NAMES.length; i++) {
-      const name = DOCUMENT_NAMES[i];
+    for (let i = 0; i < DOCUMENT_NAMES.compile.length; i++) {
+      const name = DOCUMENT_NAMES.compile[i];
       const scrapedJsonFilePath = `./scrapedJson/${name}.json`;
 
       const scrapedJson = await readFile(scrapedJsonFilePath)

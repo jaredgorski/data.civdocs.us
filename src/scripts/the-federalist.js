@@ -61,7 +61,10 @@ function scrape() {
               });
 
               const section = {
+                title,
                 subtitle,
+                author,
+                date,
                 paragraphs
               };
 

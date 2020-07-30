@@ -9,11 +9,11 @@ function compileCtxFromJson(ctx, scrapedJson) {
       const paragraph_index = i + 1;
 
       const paragraph = {
-        document_id: document.document_id,
         title: document.title,
         subtitle: section.subtitle,
         author: document.author,
         date: document.date,
+        document_id: document.document_id,
         section_id: section.section_id,
         section_index: section.section_index,
         paragraph_id,
@@ -42,11 +42,11 @@ function compileCtxFromJson(ctx, scrapedJson) {
       const section_index = i + 1;
 
       const section = {
-        document_id: document.document_id,
-        title: document.title,
+        title: sec.title,
         subtitle: sec.subtitle,
-        author: document.author,
-        date: document.date,
+        author: sec.author,
+        date: sec.date,
+        document_id: document.document_id,
         section_id,
         prev_section_id: section_id === 1 ? null : section_id - 1,
         next_section_id: isLastSection ? null : section_id + 1,
@@ -71,11 +71,11 @@ function compileCtxFromJson(ctx, scrapedJson) {
     const document_id = ctx.currDocumentsId++;
 
     document = {
-      document_id,
       title: doc.title,
       description: doc.description,
       author: doc.author,
       date: doc.date,
+      document_id,
       source: doc.source,
       citation: doc.citation,
       sections_total: sections.length,

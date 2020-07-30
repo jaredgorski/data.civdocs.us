@@ -7,7 +7,10 @@
     "citation": "\"Federalist Papers: Primary Documents in American History: Full Text of The Federalist Papers.\" Library of Congress Research Guides, Library of Congress, guides.loc.gov/federalist-papers/full-text.",
     "sections": [
         {
+            "author": "Alexander Hamilton",
+            "date": null,
             "subtitle": "General Introduction",
+            "title": "Federalist No. 1",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -48,7 +51,10 @@
             ]
         },
         {
+            "author": "John Jay",
+            "date": null,
             "subtitle": "Concerning Dangers from Foreign Force and Influence",
+            "title": "Federalist No. 2",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -101,7 +107,10 @@
             ]
         },
         {
+            "author": "John Jay",
+            "date": null,
             "subtitle": "The Same Subject Continued: Concerning Dangers From Foreign Force and Influence",
+            "title": "Federalist No. 3",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -166,7 +175,10 @@
             ]
         },
         {
+            "author": "John Jay",
+            "date": null,
             "subtitle": "The Same Subject Continued: Concerning Dangers From Foreign Force and Influence",
+            "title": "Federalist No. 4",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -228,7 +240,10 @@
             ]
         },
         {
+            "author": "John Jay",
+            "date": null,
             "subtitle": "The Same Subject Continued: Concerning Dangers from Foreign Force and Influence",
+            "title": "Federalist No. 5",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -272,7 +287,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": null,
             "subtitle": "Concerning Dangers from Dissensions Between the States",
+            "title": "Federalist No. 6",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -340,7 +358,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": null,
             "subtitle": "The Same Subject Continued: Concerning Dangers from Dissensions Between the States",
+            "title": "Federalist No. 7",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -381,7 +402,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": "Tuesday, November 20, 1787",
             "subtitle": "The Consequences of Hostilities Between the States",
+            "title": "Federalist No. 8",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -431,7 +455,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": null,
             "subtitle": "The Union as a Safeguard Against Domestic Faction and Insurrection",
+            "title": "Federalist No. 9",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -493,7 +520,10 @@
             ]
         },
         {
+            "author": "James Madison",
+            "date": "Friday, November 23, 1787",
             "subtitle": "The Same Subject Continued: The Union as a Safeguard Against Domestic Faction and Insurrection",
+            "title": "Federalist No. 10",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -570,7 +600,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": null,
             "subtitle": "The Utility of the Union in Respect to Commercial Relations and a Navy",
+            "title": "Federalist No. 11",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -623,7 +656,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": "Tuesday, November 27, 1787",
             "subtitle": "The Utility of the Union In Respect to Revenue",
+            "title": "Federalist No. 12",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -670,7 +706,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": null,
             "subtitle": "Advantage of the Union in Respect to Economy in Government",
+            "title": "Federalist No. 13",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -693,7 +732,10 @@
             ]
         },
         {
+            "author": "James Madison",
+            "date": "Friday, November 30, 1787",
             "subtitle": "Objections to the Proposed Constitution From Extent of Territory Answered",
+            "title": "Federalist No. 14",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -740,7 +782,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": null,
             "subtitle": "The Insufficiency of the Present Confederation to Preserve the Union",
+            "title": "Federalist No. 15",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -796,7 +841,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": "Tuesday, December 4, 1787",
             "subtitle": "The Same Subject Continued: The Insufficiency of the Present Confederation to Preserve the Union",
+            "title": "Federalist No. 16",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -840,7 +888,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": "Tuesday, December 4, 1787",
             "subtitle": "The Same Subject Continued: The Insufficiency of the Present Confederation to Preserve the Union",
+            "title": "Federalist No. 17",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -893,7 +944,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton, James Madison",
+            "date": null,
             "subtitle": "The Same Subject Continued: The Insufficiency of the Present Confederation to Preserve the Union",
+            "title": "Federalist No. 18",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -964,7 +1018,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton, James Madison",
+            "date": null,
             "subtitle": "The Same Subject Continued: The Insufficiency of the Present Confederation to Preserve the Union",
+            "title": "Federalist No. 19",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -1032,7 +1089,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton and James Madison",
+            "date": "Tuesday, December 11, 1787",
             "subtitle": "The Same Subject Continued: The Insufficiency of the Present Confederation to Preserve the Union",
+            "title": "Federalist No. 20",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -1115,7 +1175,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": null,
             "subtitle": "Other Defects of the Present Confederation",
+            "title": "Federalist No. 21",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -1165,7 +1228,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": "Friday, December 14, 1787",
             "subtitle": "The Same Subject Continued: Other Defects of the Present Confederation",
+            "title": "Federalist No. 22",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -1230,7 +1296,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": "Tuesday, December 18, 1787",
             "subtitle": "The Necessity of a Government as Energetic as the One Proposed to the Preservation of the Union",
+            "title": "Federalist No. 23",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -1277,7 +1346,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": null,
             "subtitle": "The Powers Necessary to the Common Defense Further Considered",
+            "title": "Federalist No. 24",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -1327,7 +1399,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": "Friday, December 21, 1787",
             "subtitle": "The Same Subject Continued: The Powers Necessary to the Common Defense Further Considered",
+            "title": "Federalist No. 25",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -1368,7 +1443,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": null,
             "subtitle": "The Idea of Restraining the Legislative Authority in Regard to the Common Defense Considered",
+            "title": "Federalist No. 26",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -1421,7 +1499,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": "Tuesday, December 25, 1787",
             "subtitle": "The Same Subject Continued: The Idea of Restraining the Legislative Authority in Regard to the Common Defense Considered",
+            "title": "Federalist No. 27",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -1450,7 +1531,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": null,
             "subtitle": "The Same Subject Continued: The Idea of Restraining the Legislative Authority in Regard to the Common Defense Considered",
+            "title": "Federalist No. 28",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -1491,7 +1575,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": "Thursday, January 10, 1788",
             "subtitle": "Concerning the Militia",
+            "title": "Federalist No. 29",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -1541,7 +1628,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": "Friday, December 28, 1787",
             "subtitle": "Concerning the General Power of Taxation",
+            "title": "Federalist No. 30",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -1585,7 +1675,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": "Tuesday, January 1, 1788",
             "subtitle": "The Same Subject Continued: Concerning the General Power of Taxation",
+            "title": "Federalist No. 31",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -1632,7 +1725,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": "Thursday, January 3, 1788",
             "subtitle": "The Same Subject Continued: Concerning the General Power of Taxation",
+            "title": "Federalist No. 32",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -1658,7 +1754,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": "Thursday, January 3, 1788",
             "subtitle": "The Same Subject Continued: Concerning the General Power of Taxation",
+            "title": "Federalist No. 33",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -1693,7 +1792,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": "Friday, January 4, 1788",
             "subtitle": "The Same Subject Continued: Concerning the General Power of Taxation",
+            "title": "Federalist No. 34",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -1737,7 +1839,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": null,
             "subtitle": "The Same Subject Continued: Concerning the General Power of Taxation",
+            "title": "Federalist No. 35",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -1781,7 +1886,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": "Tuesday, January 8, 1788",
             "subtitle": "The Same Subject Continued: Concerning the General Power of Taxation",
+            "title": "Federalist No. 36",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -1843,7 +1951,10 @@
             ]
         },
         {
+            "author": "James Madison",
+            "date": "Friday, January 11, 1788",
             "subtitle": "Concerning the Difficulties of the Convention in Devising a Proper Form of Government",
+            "title": "Federalist No. 37",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -1902,7 +2013,10 @@
             ]
         },
         {
+            "author": "James Madison",
+            "date": "Tuesday, January 15, 1788",
             "subtitle": "The Same Subject Continued, and the Incoherence of the Objections to the New Plan Exposed",
+            "title": "Federalist No. 38",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -1946,7 +2060,10 @@
             ]
         },
         {
+            "author": "James Madison",
+            "date": null,
             "subtitle": "The Conformity of the Plan to Republican Principles",
+            "title": "Federalist No. 39",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -2005,7 +2122,10 @@
             ]
         },
         {
+            "author": "James Madison",
+            "date": "Friday, January 18, 1788",
             "subtitle": "The Powers of the Convention to Form a Mixed Government Examined and Sustained",
+            "title": "Federalist No. 40",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -2022,7 +2142,10 @@
             ]
         },
         {
+            "author": "James Madison",
+            "date": null,
             "subtitle": "General View of the Powers Conferred by the Constitution",
+            "title": "Federalist No. 41",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -2048,7 +2171,10 @@
             ]
         },
         {
+            "author": "James Madison",
+            "date": "Tuesday, January 22, 1788",
             "subtitle": "The Powers Conferred by the Constitution Further Considered",
+            "title": "Federalist No. 42",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -2077,7 +2203,10 @@
             ]
         },
         {
+            "author": "James Madison",
+            "date": null,
             "subtitle": "The Same Subject Continued: The Powers Conferred by the Constitution Further Considered",
+            "title": "Federalist No. 43",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -2106,7 +2235,10 @@
             ]
         },
         {
+            "author": "James Madison",
+            "date": "Friday, January 25, 1788",
             "subtitle": "Restrictions on the Authority of the Several States",
+            "title": "Federalist No. 44",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -2135,7 +2267,10 @@
             ]
         },
         {
+            "author": "James Madison",
+            "date": null,
             "subtitle": "The Alleged Danger From the Powers of the Union to the State Governments Considered",
+            "title": "Federalist No. 45",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -2167,7 +2302,10 @@
             ]
         },
         {
+            "author": "James Madison",
+            "date": "Tuesday, January 29, 1788",
             "subtitle": "The Influence of the State and Federal Governments Compared",
+            "title": "Federalist No. 46",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -2202,7 +2340,10 @@
             ]
         },
         {
+            "author": "James Madison",
+            "date": "Friday, February 1, 1788",
             "subtitle": "The Particular Structure of the New Government and the Distribution of Power Among Its Different Parts",
+            "title": "Federalist No. 47",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -2234,7 +2375,10 @@
             ]
         },
         {
+            "author": "James Madison",
+            "date": "Friday, February 1, 1788",
             "subtitle": "These Departments Should Not Be So Far Separated as to Have No Constitutional Control Over Each Other",
+            "title": "Federalist No. 48",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -2263,7 +2407,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton, James Madison",
+            "date": "Tuesday, February 5, 1788",
             "subtitle": "Method of Guarding Against the Encroachments of Any One Department of Government by Appealing to the People Through a Convention",
+            "title": "Federalist No. 49",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -2286,7 +2433,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton, James Madison",
+            "date": "Tuesday, February 5, 1788",
             "subtitle": "Periodic Appeals to the People Considered",
+            "title": "Federalist No. 50",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -2315,7 +2465,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton, James Madison",
+            "date": "Friday, February 8, 1788",
             "subtitle": "The Structure of the Government Must Furnish the Proper Checks and Balances Between the Different Departments",
+            "title": "Federalist No. 51",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -2329,7 +2482,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton, James Madison",
+            "date": "Friday, February 8, 1788",
             "subtitle": "The House of Representatives",
+            "title": "Federalist No. 52",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -2355,7 +2511,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton, James Madison",
+            "date": "Tuesday, February 12, 1788",
             "subtitle": "The Same Subject Continued: The House of Representatives",
+            "title": "Federalist No. 53",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -2375,7 +2534,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton, James Madison",
+            "date": "Tuesday, February 12, 1788",
             "subtitle": "The Apportionment of Members Among the States",
+            "title": "Federalist No. 54",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -2398,7 +2560,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton, James Madison",
+            "date": "Friday, February 15, 1788",
             "subtitle": "The Total Number of the House of Representatives",
+            "title": "Federalist No. 55",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -2433,7 +2598,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton, James Madison",
+            "date": "Tuesday, February 19, 1788",
             "subtitle": "The Same Subject Continued: The Total Number of the House of Representatives",
+            "title": "Federalist No. 56",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -2453,7 +2621,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton, James Madison",
+            "date": "Tuesday, February 19, 1788",
             "subtitle": "The Alleged Tendency of the New Plan to Elevate the Few at the Expense of the Many Considered in Connection with Representation",
+            "title": "Federalist No. 57",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -2488,7 +2659,10 @@
             ]
         },
         {
+            "author": "James Madison",
+            "date": null,
             "subtitle": "Objection That The Number of Members Will Not Be Augmented as the Progress of Population Demands Considered",
+            "title": "Federalist No. 58",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -2505,7 +2679,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": "Friday, February 22, 1788",
             "subtitle": "Concerning the Power of Congress to Regulate the Election of Members",
+            "title": "Federalist No. 59",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -2519,7 +2696,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": "Tuesday, February 26, 1788",
             "subtitle": "The Same Subject Continued: Concerning the Power of Congress to Regulate the Election of Members",
+            "title": "Federalist No. 60",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -2566,7 +2746,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": "Tuesday, February 26, 1788",
             "subtitle": "The Same Subject Continued: Concerning the Power of Congress to Regulate the Election of Members",
+            "title": "Federalist No. 61",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -2595,7 +2778,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton, James Madison",
+            "date": null,
             "subtitle": "The Senate",
+            "title": "Federalist No. 62",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -2663,7 +2849,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton, James Madison",
+            "date": null,
             "subtitle": "The Senate Continued",
+            "title": "Federalist No. 63",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -2737,7 +2926,10 @@
             ]
         },
         {
+            "author": "John Jay",
+            "date": "Friday, March 7, 1788",
             "subtitle": "The Powers of the Senate",
+            "title": "Federalist No. 64",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -2793,7 +2985,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": "Friday, March 7, 1788",
             "subtitle": "The Powers of the Senate Continued",
+            "title": "Federalist No. 65",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -2837,7 +3032,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": "Tuesday, March 11, 1788",
             "subtitle": "Objections to the Power of the Senate To Set as a Court for Impeachments Further Considered",
+            "title": "Federalist No. 66",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -2890,7 +3088,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": "Tuesday, March 11, 1788",
             "subtitle": "The Executive Department",
+            "title": "Federalist No. 67",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -2934,7 +3135,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": "Friday, March 14, 1788",
             "subtitle": "The Mode of Electing the President",
+            "title": "Federalist No. 68",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -2975,7 +3179,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": "Friday, March 14, 1788",
             "subtitle": "The Real Character of the Executive",
+            "title": "Federalist No. 69",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -3019,7 +3226,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": "Tuesday, March 18, 1788",
             "subtitle": "The Executive Department Further Considered",
+            "title": "Federalist No. 70",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -3102,7 +3312,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": "Tuesday, March 18, 1788",
             "subtitle": "The Duration in Office of the Executive",
+            "title": "Federalist No. 71",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -3134,7 +3347,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": "Friday, March 21, 1788",
             "subtitle": "The Same Subject Continued, and Re-Eligibility of the Executive Considered",
+            "title": "Federalist No. 72",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -3187,7 +3403,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": "Friday, March 21, 1788",
             "subtitle": "The Provision For The Support of the Executive, and the Veto Power",
+            "title": "Federalist No. 73",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -3243,7 +3462,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": "Tuesday, March 25, 1788",
             "subtitle": "The Command of the Military and Naval Forces, and the Pardoning Power of the Executive",
+            "title": "Federalist No. 74",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -3266,7 +3488,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": null,
             "subtitle": "The Treaty Making Power of the Executive",
+            "title": "Federalist No. 75",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -3301,7 +3526,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": "Tuesday, April 1, 1788",
             "subtitle": "The Appointing Power of the Executive",
+            "title": "Federalist No. 76",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -3342,7 +3570,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": "Friday, April 4, 1788",
             "subtitle": "The Appointing Power Continued and Other Powers of the Executive Considered",
+            "title": "Federalist No. 77",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -3383,7 +3614,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": null,
             "subtitle": "The Judiciary Department",
+            "title": "Federalist No. 78",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -3460,7 +3694,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": null,
             "subtitle": "The Judiciary Department Continued",
+            "title": "Federalist No. 79",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -3489,7 +3726,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": null,
             "subtitle": "The Powers of the Judiciary",
+            "title": "Federalist No. 80",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -3566,7 +3806,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": null,
             "subtitle": "The Judiciary Continued, and the Distribution of the Judicial Authority",
+            "title": "Federalist No. 81",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -3637,7 +3880,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": null,
             "subtitle": "The Judiciary Continued",
+            "title": "Federalist No. 82",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -3669,7 +3915,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": null,
             "subtitle": "The Judiciary Continued in Relation to Trial by Jury",
+            "title": "Federalist No. 83",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -3794,7 +4043,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": null,
             "subtitle": "Certain General and Miscellaneous Objections to the Constitution Considered and Answered",
+            "title": "Federalist No. 84",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
@@ -3871,7 +4123,10 @@
             ]
         },
         {
+            "author": "Alexander Hamilton",
+            "date": null,
             "subtitle": "Concluding Remarks",
+            "title": "Federalist No. 85",
             "paragraphs": [
                 {
                     "content": "To the People of the State of New York:"
