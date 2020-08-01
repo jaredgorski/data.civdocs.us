@@ -7,6 +7,8 @@ function compileCtxFromJson(ctx, scrapedJson) {
 
       const paragraph_id = ctx.currParagraphsId++;
       const paragraph_index = i + 1;
+      const prev_paragraph_index = paragraph_index === 1 ? null : paragraph_index - 1;
+      const next_paragraph_index = isLastParagraph ? null : paragraph_index + 1;
 
       const paragraph = {
         title: section.title,
@@ -21,8 +23,8 @@ function compileCtxFromJson(ctx, scrapedJson) {
         prev_paragraph_id: paragraph_id === 1 ? null : paragraph_id - 1,
         next_paragraph_id: section.is_last_section && isLastParagraph ? null : paragraph_id + 1,
         paragraph_index,
-        prev_paragraph_index: paragraph_index === 1 ? null : paragraph_index - 1,
-        next_paragraph_index: isLastParagraph ? null : paragraph_index + 1,
+        prev_paragraph_index,
+        next_paragraph_index,
         is_last_paragraph: isLastParagraph,
         paragraphs_total: paragraphs.length,
         content: par.content,
@@ -41,6 +43,10 @@ function compileCtxFromJson(ctx, scrapedJson) {
 
       const section_id = ctx.currSectionsId++;
       const section_index = i + 1;
+      const prev_section_index = section_index === 1 ? null : section_index - 1;
+      const next_section_index = isLastSection ? null : section_index + 1;
+      const prev_section_title = prev_section_index ? sections[i - 1].title : null;
+      const next_section_title = next_section_index ? sections[i + 1].title : null;
 
       const section = {
         title: sec.title,
@@ -53,8 +59,10 @@ function compileCtxFromJson(ctx, scrapedJson) {
         prev_section_id: section_id === 1 ? null : section_id - 1,
         next_section_id: isLastSection ? null : section_id + 1,
         section_index,
-        prev_section_index: section_index === 1 ? null : section_index - 1,
-        next_section_index: isLastSection ? null : section_index + 1,
+        prev_section_index,
+        next_section_index,
+        prev_section_title,
+        next_section_title,
         is_last_section: isLastSection,
         sections_total: sections.length,
         paragraphs_total: paragraphs.length,

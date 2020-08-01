@@ -58,6 +58,8 @@ const GLOBALS = {
           'section_index': 'integer',
           'prev_section_index': 'integer',
           'next_section_index': 'integer',
+          'prev_section_title': 'text',
+          'next_section_title': 'text',
           'is_last_section': 'boolean',
           'sections_total': 'integer',
           'paragraphs_total': 'integer',

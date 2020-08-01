@@ -12,6 +12,8 @@
         "section_index": 1,
         "prev_section_index": null,
         "next_section_index": 2,
+        "prev_section_title": null,
+        "next_section_title": "Federalist No. 2",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 12
@@ -29,6 +31,8 @@
         "section_index": 2,
         "prev_section_index": 1,
         "next_section_index": 3,
+        "prev_section_title": "Federalist No. 1",
+        "next_section_title": "Federalist No. 3",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 16
@@ -46,6 +50,8 @@
         "section_index": 3,
         "prev_section_index": 2,
         "next_section_index": 4,
+        "prev_section_title": "Federalist No. 2",
+        "next_section_title": "Federalist No. 4",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 20
@@ -63,6 +69,8 @@
         "section_index": 4,
         "prev_section_index": 3,
         "next_section_index": 5,
+        "prev_section_title": "Federalist No. 3",
+        "next_section_title": "Federalist No. 5",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 19
@@ -80,6 +88,8 @@
         "section_index": 5,
         "prev_section_index": 4,
         "next_section_index": 6,
+        "prev_section_title": "Federalist No. 4",
+        "next_section_title": "Federalist No. 6",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 13
@@ -97,6 +107,8 @@
         "section_index": 6,
         "prev_section_index": 5,
         "next_section_index": 7,
+        "prev_section_title": "Federalist No. 5",
+        "next_section_title": "Federalist No. 7",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 21
@@ -114,6 +126,8 @@
         "section_index": 7,
         "prev_section_index": 6,
         "next_section_index": 8,
+        "prev_section_title": "Federalist No. 6",
+        "next_section_title": "Federalist No. 8",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 12
@@ -131,6 +145,8 @@
         "section_index": 8,
         "prev_section_index": 7,
         "next_section_index": 9,
+        "prev_section_title": "Federalist No. 7",
+        "next_section_title": "Federalist No. 9",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 15
@@ -148,6 +164,8 @@
         "section_index": 9,
         "prev_section_index": 8,
         "next_section_index": 10,
+        "prev_section_title": "Federalist No. 8",
+        "next_section_title": "Federalist No. 10",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 19
@@ -165,6 +183,8 @@
         "section_index": 10,
         "prev_section_index": 9,
         "next_section_index": 11,
+        "prev_section_title": "Federalist No. 9",
+        "next_section_title": "Federalist No. 11",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 24
@@ -182,6 +202,8 @@
         "section_index": 11,
         "prev_section_index": 10,
         "next_section_index": 12,
+        "prev_section_title": "Federalist No. 10",
+        "next_section_title": "Federalist No. 12",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 16
@@ -199,6 +221,8 @@
         "section_index": 12,
         "prev_section_index": 11,
         "next_section_index": 13,
+        "prev_section_title": "Federalist No. 11",
+        "next_section_title": "Federalist No. 13",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 14
@@ -216,6 +240,8 @@
         "section_index": 13,
         "prev_section_index": 12,
         "next_section_index": 14,
+        "prev_section_title": "Federalist No. 12",
+        "next_section_title": "Federalist No. 14",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 6
@@ -233,6 +259,8 @@
         "section_index": 14,
         "prev_section_index": 13,
         "next_section_index": 15,
+        "prev_section_title": "Federalist No. 13",
+        "next_section_title": "Federalist No. 15",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 14
@@ -250,6 +278,8 @@
         "section_index": 15,
         "prev_section_index": 14,
         "next_section_index": 16,
+        "prev_section_title": "Federalist No. 14",
+        "next_section_title": "Federalist No. 16",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 17
@@ -267,6 +297,8 @@
         "section_index": 16,
         "prev_section_index": 15,
         "next_section_index": 17,
+        "prev_section_title": "Federalist No. 15",
+        "next_section_title": "Federalist No. 17",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 13
@@ -284,6 +316,8 @@
         "section_index": 17,
         "prev_section_index": 16,
         "next_section_index": 18,
+        "prev_section_title": "Federalist No. 16",
+        "next_section_title": "Federalist No. 18",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 16
@@ -301,6 +335,8 @@
         "section_index": 18,
         "prev_section_index": 17,
         "next_section_index": 19,
+        "prev_section_title": "Federalist No. 17",
+        "next_section_title": "Federalist No. 19",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 22
@@ -318,6 +354,8 @@
         "section_index": 19,
         "prev_section_index": 18,
         "next_section_index": 20,
+        "prev_section_title": "Federalist No. 18",
+        "next_section_title": "Federalist No. 20",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 21
@@ -335,6 +373,8 @@
         "section_index": 20,
         "prev_section_index": 19,
         "next_section_index": 21,
+        "prev_section_title": "Federalist No. 19",
+        "next_section_title": "Federalist No. 21",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 26
@@ -352,6 +392,8 @@
         "section_index": 21,
         "prev_section_index": 20,
         "next_section_index": 22,
+        "prev_section_title": "Federalist No. 20",
+        "next_section_title": "Federalist No. 22",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 15
@@ -369,6 +411,8 @@
         "section_index": 22,
         "prev_section_index": 21,
         "next_section_index": 23,
+        "prev_section_title": "Federalist No. 21",
+        "next_section_title": "Federalist No. 23",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 20
@@ -386,6 +430,8 @@
         "section_index": 23,
         "prev_section_index": 22,
         "next_section_index": 24,
+        "prev_section_title": "Federalist No. 22",
+        "next_section_title": "Federalist No. 24",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 14
@@ -403,6 +449,8 @@
         "section_index": 24,
         "prev_section_index": 23,
         "next_section_index": 25,
+        "prev_section_title": "Federalist No. 23",
+        "next_section_title": "Federalist No. 25",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 15
@@ -420,6 +468,8 @@
         "section_index": 25,
         "prev_section_index": 24,
         "next_section_index": 26,
+        "prev_section_title": "Federalist No. 24",
+        "next_section_title": "Federalist No. 26",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 12
@@ -437,6 +487,8 @@
         "section_index": 26,
         "prev_section_index": 25,
         "next_section_index": 27,
+        "prev_section_title": "Federalist No. 25",
+        "next_section_title": "Federalist No. 27",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 16
@@ -454,6 +506,8 @@
         "section_index": 27,
         "prev_section_index": 26,
         "next_section_index": 28,
+        "prev_section_title": "Federalist No. 26",
+        "next_section_title": "Federalist No. 28",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 8
@@ -471,6 +525,8 @@
         "section_index": 28,
         "prev_section_index": 27,
         "next_section_index": 29,
+        "prev_section_title": "Federalist No. 27",
+        "next_section_title": "Federalist No. 29",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 12
@@ -488,6 +544,8 @@
         "section_index": 29,
         "prev_section_index": 28,
         "next_section_index": 30,
+        "prev_section_title": "Federalist No. 28",
+        "next_section_title": "Federalist No. 30",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 15
@@ -505,6 +563,8 @@
         "section_index": 30,
         "prev_section_index": 29,
         "next_section_index": 31,
+        "prev_section_title": "Federalist No. 29",
+        "next_section_title": "Federalist No. 31",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 13
@@ -522,6 +582,8 @@
         "section_index": 31,
         "prev_section_index": 30,
         "next_section_index": 32,
+        "prev_section_title": "Federalist No. 30",
+        "next_section_title": "Federalist No. 32",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 14
@@ -539,6 +601,8 @@
         "section_index": 32,
         "prev_section_index": 31,
         "next_section_index": 33,
+        "prev_section_title": "Federalist No. 31",
+        "next_section_title": "Federalist No. 33",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 7
@@ -556,6 +620,8 @@
         "section_index": 33,
         "prev_section_index": 32,
         "next_section_index": 34,
+        "prev_section_title": "Federalist No. 32",
+        "next_section_title": "Federalist No. 34",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 10
@@ -573,6 +639,8 @@
         "section_index": 34,
         "prev_section_index": 33,
         "next_section_index": 35,
+        "prev_section_title": "Federalist No. 33",
+        "next_section_title": "Federalist No. 35",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 13
@@ -590,6 +658,8 @@
         "section_index": 35,
         "prev_section_index": 34,
         "next_section_index": 36,
+        "prev_section_title": "Federalist No. 34",
+        "next_section_title": "Federalist No. 36",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 13
@@ -607,6 +677,8 @@
         "section_index": 36,
         "prev_section_index": 35,
         "next_section_index": 37,
+        "prev_section_title": "Federalist No. 35",
+        "next_section_title": "Federalist No. 37",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 19
@@ -624,6 +696,8 @@
         "section_index": 37,
         "prev_section_index": 36,
         "next_section_index": 38,
+        "prev_section_title": "Federalist No. 36",
+        "next_section_title": "Federalist No. 38",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 18
@@ -641,6 +715,8 @@
         "section_index": 38,
         "prev_section_index": 37,
         "next_section_index": 39,
+        "prev_section_title": "Federalist No. 37",
+        "next_section_title": "Federalist No. 39",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 13
@@ -658,6 +734,8 @@
         "section_index": 39,
         "prev_section_index": 38,
         "next_section_index": 40,
+        "prev_section_title": "Federalist No. 38",
+        "next_section_title": "Federalist No. 40",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 18
@@ -675,6 +753,8 @@
         "section_index": 40,
         "prev_section_index": 39,
         "next_section_index": 41,
+        "prev_section_title": "Federalist No. 39",
+        "next_section_title": "Federalist No. 41",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 4
@@ -692,6 +772,8 @@
         "section_index": 41,
         "prev_section_index": 40,
         "next_section_index": 42,
+        "prev_section_title": "Federalist No. 40",
+        "next_section_title": "Federalist No. 42",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 7
@@ -709,6 +791,8 @@
         "section_index": 42,
         "prev_section_index": 41,
         "next_section_index": 43,
+        "prev_section_title": "Federalist No. 41",
+        "next_section_title": "Federalist No. 43",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 8
@@ -726,6 +810,8 @@
         "section_index": 43,
         "prev_section_index": 42,
         "next_section_index": 44,
+        "prev_section_title": "Federalist No. 42",
+        "next_section_title": "Federalist No. 44",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 8
@@ -743,6 +829,8 @@
         "section_index": 44,
         "prev_section_index": 43,
         "next_section_index": 45,
+        "prev_section_title": "Federalist No. 43",
+        "next_section_title": "Federalist No. 45",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 8
@@ -760,6 +848,8 @@
         "section_index": 45,
         "prev_section_index": 44,
         "next_section_index": 46,
+        "prev_section_title": "Federalist No. 44",
+        "next_section_title": "Federalist No. 46",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 9
@@ -777,6 +867,8 @@
         "section_index": 46,
         "prev_section_index": 45,
         "next_section_index": 47,
+        "prev_section_title": "Federalist No. 45",
+        "next_section_title": "Federalist No. 47",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 10
@@ -794,6 +886,8 @@
         "section_index": 47,
         "prev_section_index": 46,
         "next_section_index": 48,
+        "prev_section_title": "Federalist No. 46",
+        "next_section_title": "Federalist No. 48",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 9
@@ -811,6 +905,8 @@
         "section_index": 48,
         "prev_section_index": 47,
         "next_section_index": 49,
+        "prev_section_title": "Federalist No. 47",
+        "next_section_title": "Federalist No. 49",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 8
@@ -828,6 +924,8 @@
         "section_index": 49,
         "prev_section_index": 48,
         "next_section_index": 50,
+        "prev_section_title": "Federalist No. 48",
+        "next_section_title": "Federalist No. 50",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 6
@@ -845,6 +943,8 @@
         "section_index": 50,
         "prev_section_index": 49,
         "next_section_index": 51,
+        "prev_section_title": "Federalist No. 49",
+        "next_section_title": "Federalist No. 51",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 8
@@ -862,6 +962,8 @@
         "section_index": 51,
         "prev_section_index": 50,
         "next_section_index": 52,
+        "prev_section_title": "Federalist No. 50",
+        "next_section_title": "Federalist No. 52",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 3
@@ -879,6 +981,8 @@
         "section_index": 52,
         "prev_section_index": 51,
         "next_section_index": 53,
+        "prev_section_title": "Federalist No. 51",
+        "next_section_title": "Federalist No. 53",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 7
@@ -896,6 +1000,8 @@
         "section_index": 53,
         "prev_section_index": 52,
         "next_section_index": 54,
+        "prev_section_title": "Federalist No. 52",
+        "next_section_title": "Federalist No. 54",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 5
@@ -913,6 +1019,8 @@
         "section_index": 54,
         "prev_section_index": 53,
         "next_section_index": 55,
+        "prev_section_title": "Federalist No. 53",
+        "next_section_title": "Federalist No. 55",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 6
@@ -930,6 +1038,8 @@
         "section_index": 55,
         "prev_section_index": 54,
         "next_section_index": 56,
+        "prev_section_title": "Federalist No. 54",
+        "next_section_title": "Federalist No. 56",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 10
@@ -947,6 +1057,8 @@
         "section_index": 56,
         "prev_section_index": 55,
         "next_section_index": 57,
+        "prev_section_title": "Federalist No. 55",
+        "next_section_title": "Federalist No. 57",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 5
@@ -964,6 +1076,8 @@
         "section_index": 57,
         "prev_section_index": 56,
         "next_section_index": 58,
+        "prev_section_title": "Federalist No. 56",
+        "next_section_title": "Federalist No. 58",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 10
@@ -981,6 +1095,8 @@
         "section_index": 58,
         "prev_section_index": 57,
         "next_section_index": 59,
+        "prev_section_title": "Federalist No. 57",
+        "next_section_title": "Federalist No. 59",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 4
@@ -998,6 +1114,8 @@
         "section_index": 59,
         "prev_section_index": 58,
         "next_section_index": 60,
+        "prev_section_title": "Federalist No. 58",
+        "next_section_title": "Federalist No. 60",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 3
@@ -1015,6 +1133,8 @@
         "section_index": 60,
         "prev_section_index": 59,
         "next_section_index": 61,
+        "prev_section_title": "Federalist No. 59",
+        "next_section_title": "Federalist No. 61",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 14
@@ -1032,6 +1152,8 @@
         "section_index": 61,
         "prev_section_index": 60,
         "next_section_index": 62,
+        "prev_section_title": "Federalist No. 60",
+        "next_section_title": "Federalist No. 62",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 8
@@ -1049,6 +1171,8 @@
         "section_index": 62,
         "prev_section_index": 61,
         "next_section_index": 63,
+        "prev_section_title": "Federalist No. 61",
+        "next_section_title": "Federalist No. 63",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 21
@@ -1066,6 +1190,8 @@
         "section_index": 63,
         "prev_section_index": 62,
         "next_section_index": 64,
+        "prev_section_title": "Federalist No. 62",
+        "next_section_title": "Federalist No. 64",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 23
@@ -1083,6 +1209,8 @@
         "section_index": 64,
         "prev_section_index": 63,
         "next_section_index": 65,
+        "prev_section_title": "Federalist No. 63",
+        "next_section_title": "Federalist No. 65",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 17
@@ -1100,6 +1228,8 @@
         "section_index": 65,
         "prev_section_index": 64,
         "next_section_index": 66,
+        "prev_section_title": "Federalist No. 64",
+        "next_section_title": "Federalist No. 66",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 13
@@ -1117,6 +1247,8 @@
         "section_index": 66,
         "prev_section_index": 65,
         "next_section_index": 67,
+        "prev_section_title": "Federalist No. 65",
+        "next_section_title": "Federalist No. 67",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 16
@@ -1134,6 +1266,8 @@
         "section_index": 67,
         "prev_section_index": 66,
         "next_section_index": 68,
+        "prev_section_title": "Federalist No. 66",
+        "next_section_title": "Federalist No. 68",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 13
@@ -1151,6 +1285,8 @@
         "section_index": 68,
         "prev_section_index": 67,
         "next_section_index": 69,
+        "prev_section_title": "Federalist No. 67",
+        "next_section_title": "Federalist No. 69",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 12
@@ -1168,6 +1304,8 @@
         "section_index": 69,
         "prev_section_index": 68,
         "next_section_index": 70,
+        "prev_section_title": "Federalist No. 68",
+        "next_section_title": "Federalist No. 70",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 13
@@ -1185,6 +1323,8 @@
         "section_index": 70,
         "prev_section_index": 69,
         "next_section_index": 71,
+        "prev_section_title": "Federalist No. 69",
+        "next_section_title": "Federalist No. 71",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 26
@@ -1202,6 +1342,8 @@
         "section_index": 71,
         "prev_section_index": 70,
         "next_section_index": 72,
+        "prev_section_title": "Federalist No. 70",
+        "next_section_title": "Federalist No. 72",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 9
@@ -1219,6 +1361,8 @@
         "section_index": 72,
         "prev_section_index": 71,
         "next_section_index": 73,
+        "prev_section_title": "Federalist No. 71",
+        "next_section_title": "Federalist No. 73",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 16
@@ -1236,6 +1380,8 @@
         "section_index": 73,
         "prev_section_index": 72,
         "next_section_index": 74,
+        "prev_section_title": "Federalist No. 72",
+        "next_section_title": "Federalist No. 74",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 17
@@ -1253,6 +1399,8 @@
         "section_index": 74,
         "prev_section_index": 73,
         "next_section_index": 75,
+        "prev_section_title": "Federalist No. 73",
+        "next_section_title": "Federalist No. 75",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 6
@@ -1270,6 +1418,8 @@
         "section_index": 75,
         "prev_section_index": 74,
         "next_section_index": 76,
+        "prev_section_title": "Federalist No. 74",
+        "next_section_title": "Federalist No. 76",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 10
@@ -1287,6 +1437,8 @@
         "section_index": 76,
         "prev_section_index": 75,
         "next_section_index": 77,
+        "prev_section_title": "Federalist No. 75",
+        "next_section_title": "Federalist No. 77",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 12
@@ -1304,6 +1456,8 @@
         "section_index": 77,
         "prev_section_index": 76,
         "next_section_index": 78,
+        "prev_section_title": "Federalist No. 76",
+        "next_section_title": "Federalist No. 78",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 12
@@ -1321,6 +1475,8 @@
         "section_index": 78,
         "prev_section_index": 77,
         "next_section_index": 79,
+        "prev_section_title": "Federalist No. 77",
+        "next_section_title": "Federalist No. 79",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 24
@@ -1338,6 +1494,8 @@
         "section_index": 79,
         "prev_section_index": 78,
         "next_section_index": 80,
+        "prev_section_title": "Federalist No. 78",
+        "next_section_title": "Federalist No. 80",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 8
@@ -1355,6 +1513,8 @@
         "section_index": 80,
         "prev_section_index": 79,
         "next_section_index": 81,
+        "prev_section_title": "Federalist No. 79",
+        "next_section_title": "Federalist No. 81",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 24
@@ -1372,6 +1532,8 @@
         "section_index": 81,
         "prev_section_index": 80,
         "next_section_index": 82,
+        "prev_section_title": "Federalist No. 80",
+        "next_section_title": "Federalist No. 82",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 22
@@ -1389,6 +1551,8 @@
         "section_index": 82,
         "prev_section_index": 81,
         "next_section_index": 83,
+        "prev_section_title": "Federalist No. 81",
+        "next_section_title": "Federalist No. 83",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 9
@@ -1406,6 +1570,8 @@
         "section_index": 83,
         "prev_section_index": 82,
         "next_section_index": 84,
+        "prev_section_title": "Federalist No. 82",
+        "next_section_title": "Federalist No. 84",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 40
@@ -1423,6 +1589,8 @@
         "section_index": 84,
         "prev_section_index": 83,
         "next_section_index": 85,
+        "prev_section_title": "Federalist No. 83",
+        "next_section_title": "Federalist No. 85",
         "is_last_section": false,
         "sections_total": 85,
         "paragraphs_total": 24
@@ -1440,6 +1608,8 @@
         "section_index": 85,
         "prev_section_index": 84,
         "next_section_index": null,
+        "prev_section_title": "Federalist No. 84",
+        "next_section_title": null,
         "is_last_section": true,
         "sections_total": 85,
         "paragraphs_total": 17
@@ -1457,6 +1627,8 @@
         "section_index": 1,
         "prev_section_index": null,
         "next_section_index": 2,
+        "prev_section_title": null,
+        "next_section_title": "Anti-Federalist No. 2",
         "is_last_section": false,
         "sections_total": 14,
         "paragraphs_total": 8
@@ -1474,6 +1646,8 @@
         "section_index": 2,
         "prev_section_index": 1,
         "next_section_index": 3,
+        "prev_section_title": "Anti-Federalist No. 1",
+        "next_section_title": "Anti-Federalist No. 3",
         "is_last_section": false,
         "sections_total": 14,
         "paragraphs_total": 15
@@ -1491,6 +1665,8 @@
         "section_index": 3,
         "prev_section_index": 2,
         "next_section_index": 4,
+        "prev_section_title": "Anti-Federalist No. 2",
+        "next_section_title": "Anti-Federalist No. 4",
         "is_last_section": false,
         "sections_total": 14,
         "paragraphs_total": 6
@@ -1508,6 +1684,8 @@
         "section_index": 4,
         "prev_section_index": 3,
         "next_section_index": 5,
+        "prev_section_title": "Anti-Federalist No. 3",
+        "next_section_title": "Anti-Federalist No. 5",
         "is_last_section": false,
         "sections_total": 14,
         "paragraphs_total": 13
@@ -1525,6 +1703,8 @@
         "section_index": 5,
         "prev_section_index": 4,
         "next_section_index": 6,
+        "prev_section_title": "Anti-Federalist No. 4",
+        "next_section_title": "Anti-Federalist No. 6",
         "is_last_section": false,
         "sections_total": 14,
         "paragraphs_total": 7
@@ -1542,6 +1722,8 @@
         "section_index": 6,
         "prev_section_index": 5,
         "next_section_index": 7,
+        "prev_section_title": "Anti-Federalist No. 5",
+        "next_section_title": "Anti-Federalist No. 7",
         "is_last_section": false,
         "sections_total": 14,
         "paragraphs_total": 5
@@ -1559,6 +1741,8 @@
         "section_index": 7,
         "prev_section_index": 6,
         "next_section_index": 8,
+        "prev_section_title": "Anti-Federalist No. 6",
+        "next_section_title": "Anti-Federalist No. 8",
         "is_last_section": false,
         "sections_total": 14,
         "paragraphs_total": 6
@@ -1576,6 +1760,8 @@
         "section_index": 8,
         "prev_section_index": 7,
         "next_section_index": 9,
+        "prev_section_title": "Anti-Federalist No. 7",
+        "next_section_title": "Anti-Federalist No. 9",
         "is_last_section": false,
         "sections_total": 14,
         "paragraphs_total": 5
@@ -1593,6 +1779,8 @@
         "section_index": 9,
         "prev_section_index": 8,
         "next_section_index": 10,
+        "prev_section_title": "Anti-Federalist No. 8",
+        "next_section_title": "Anti-Federalist No. 10",
         "is_last_section": false,
         "sections_total": 14,
         "paragraphs_total": 6
@@ -1610,6 +1798,8 @@
         "section_index": 10,
         "prev_section_index": 9,
         "next_section_index": 11,
+        "prev_section_title": "Anti-Federalist No. 9",
+        "next_section_title": "Anti-Federalist No. 11",
         "is_last_section": false,
         "sections_total": 14,
         "paragraphs_total": 8
@@ -1627,6 +1817,8 @@
         "section_index": 11,
         "prev_section_index": 10,
         "next_section_index": 12,
+        "prev_section_title": "Anti-Federalist No. 10",
+        "next_section_title": "Anti-Federalist No. 12",
         "is_last_section": false,
         "sections_total": 14,
         "paragraphs_total": 9
@@ -1644,6 +1836,8 @@
         "section_index": 12,
         "prev_section_index": 11,
         "next_section_index": 13,
+        "prev_section_title": "Anti-Federalist No. 11",
+        "next_section_title": "Anti-Federalist No. 13",
         "is_last_section": false,
         "sections_total": 14,
         "paragraphs_total": 11
@@ -1661,6 +1855,8 @@
         "section_index": 13,
         "prev_section_index": 12,
         "next_section_index": 14,
+        "prev_section_title": "Anti-Federalist No. 12",
+        "next_section_title": "Anti-Federalist No. 14",
         "is_last_section": false,
         "sections_total": 14,
         "paragraphs_total": 8
@@ -1678,6 +1874,8 @@
         "section_index": 14,
         "prev_section_index": 13,
         "next_section_index": null,
+        "prev_section_title": "Anti-Federalist No. 13",
+        "next_section_title": null,
         "is_last_section": true,
         "sections_total": 14,
         "paragraphs_total": 9
