@@ -46,6 +46,7 @@ const GLOBALS = {
       {
         name: 'sections',
         columns: {
+          'document_title': 'text',
           'document_id': 'integer',
           'title': 'text',
           'subtitle': 'text',
@@ -66,6 +67,7 @@ const GLOBALS = {
       {
         name: 'paragraphs',
         columns: {
+          'document_title': 'text',
           'document_id': 'integer',
           'title': 'text',
           'subtitle': 'text',

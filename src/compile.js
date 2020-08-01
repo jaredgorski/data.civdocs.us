@@ -9,10 +9,11 @@ function compileCtxFromJson(ctx, scrapedJson) {
       const paragraph_index = i + 1;
 
       const paragraph = {
-        title: document.title,
+        title: section.title,
         subtitle: section.subtitle,
         author: document.author,
         date: document.date,
+        document_title: document.title,
         document_id: document.document_id,
         section_id: section.section_id,
         section_index: section.section_index,
@@ -46,6 +47,7 @@ function compileCtxFromJson(ctx, scrapedJson) {
         subtitle: sec.subtitle,
         author: sec.author,
         date: sec.date,
+        document_title: document.title,
         document_id: document.document_id,
         section_id,
         prev_section_id: section_id === 1 ? null : section_id - 1,
