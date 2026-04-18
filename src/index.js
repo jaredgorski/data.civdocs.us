@@ -25,7 +25,7 @@ async function scrape() {
       const script = require(`./scripts/${name}`);
       const scrapedJson = await script();
 
-      await writeFile(`./scrapedJson/${name}.json`, JSON.stringify(scrapedJson, null, 4), (err)=> console.log(`\n\n${name} successfully scraped and written!\n\n`));
+      await writeFile(`./scrapedJson/${name}.json`, JSON.stringify(scrapedJson, null, 4), (err) => console.log(`\n\n${name} successfully scraped and written!\n\n`));
     }
   }
 
@@ -49,18 +49,14 @@ async function compile() {
     }
 
     return ctx;
- }
+  }
 
- async function write(ctx) {
-   await writeFile('./compiledJson/documents.json', JSON.stringify(ctx.documentsJson, null, 4), (err)=> console.log('\n\ndocuments successfully compiled and written!\n\n'));
-   await writeFile('./compiledJson/sections.json', JSON.stringify(ctx.sectionsJson, null, 4), (err)=> console.log('\n\nsections successfully compiled and written!\n\n'));
-   await writeFile('./compiledJson/paragraphs.json', JSON.stringify(ctx.paragraphsJson, null, 4), (err)=> console.log('\n\nparagraphs successfully compiled and written!\n\n'));
- }
+  async function write(ctx) {
+   await writeFile('./compiledJson/documents.json', JSON.stringify(ctx.documentsJson, null, 4), (err) => console.log('\n\ndocuments successfully compiled and written!\n\n'));
+  }
 
- let context = {
+  let context = {
     documentsJson: [],
-    sectionsJson: [],
-    paragraphsJson: [],
     currDocumentsId: 1,
     currSectionsId: 1,
     currParagraphsId: 1,

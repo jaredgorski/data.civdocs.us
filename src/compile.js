@@ -30,7 +30,7 @@ function compileCtxFromJson(ctx, scrapedJson) {
         content: par.content,
       };
 
-      ctx.paragraphsJson.push(paragraph);
+      section.paragraphs.push(paragraph);
     }
   };
 
@@ -66,9 +66,10 @@ function compileCtxFromJson(ctx, scrapedJson) {
         is_last_section: isLastSection,
         sections_total: sections.length,
         paragraphs_total: paragraphs.length,
+        paragraphs: [],
       };
 
-      ctx.sectionsJson.push(section);
+      document.sections.push(section);
 
       compileParagraphs(document, section, paragraphs);
     }
@@ -89,11 +90,12 @@ function compileCtxFromJson(ctx, scrapedJson) {
       source: doc.source,
       citation: doc.citation,
       sections_total: sections.length,
+      sections: [],
     };
 
-    ctx.documentsJson.push(document);
-
     compileSections(document, sections);
+
+    ctx.documentsJson.push(document);
   }
 
   compileDocument(scrapedJson);

@@ -3,15 +3,15 @@
 # parse args
 scrape=0
 compile=0
-production=0
+write=0
 
-while getopts ":scp" opt; do
+while getopts ":scw" opt; do
     case "$opt" in
     s)  scrape=1
         ;;
     c)  compile=1
         ;;
-    p)  production=1
+    w)  write=1
         ;;
     esac
 done
@@ -27,9 +27,7 @@ then
     cd src && npm run compile && cd ../
 fi
 
-if [ "$production" -gt "0" ]
+if [ "$write" -gt "0" ]
 then
-    cd src && npm run build-production-db && cd ../
-else
-    cd src && npm run build-local-db && cd ../
+    cd src && npm run build-db && cd ../
 fi
